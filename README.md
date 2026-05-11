@@ -69,7 +69,7 @@ Absensi/
 ```
 
 ## ✒️ Kontributor
--   **DELL** - Pengembang Utama
+-   **Aqbil DKK, dan Gemini AI** - Pengembang Utama
 
 ---
 *Dibuat dengan ❤️ untuk kemudahan pengelolaan data akademik.*

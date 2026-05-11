@@ -72,4 +72,4 @@ Absensi/
 -   **Aqbil DKK, dan Gemini AI** - Pengembang Utama
 
 ---
-*Dibuat dengan ❤️ untuk kemudahan pengelolaan data akademik.*
+*Dibuat dengan ❤️ untuk kemudahan pengelolaan data absensi.*
